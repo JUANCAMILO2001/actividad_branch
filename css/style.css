@@ -1,0 +1,19 @@
+        
+        /*camilo header*/
+        .navbar{
+            height: 75px;
+        }
+        .bg-body-nav{
+            background-color: #2C3D4F;
+            color: #FFFFFF;
+        }
+        .navbar-toggler{
+            border: 1px solid #1abc9c!important;
+            background: #1abc9c;
+        }
+        .navbar a{
+            color: #FFFFFF;
+        }
+        .navbar a:hover{
+            color: #1abc9c;
+        }
