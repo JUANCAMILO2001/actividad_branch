@@ -9,13 +9,17 @@
         }
         .navbar-toggler{
             border: 1px solid #1abc9c!important;
-            background: #1abc9c;
+            background: #1abc9c!important;
         }
         .navbar a{
             color: #FFFFFF;
         }
         .navbar a:hover{
             color: #1abc9c;
+        }
+        .navbar-collapse{
+          background-color: #2C3D4F;
+
         }
 
         /*Esteban seccion paso 2*/
@@ -65,4 +69,12 @@
           }
           .estrella.estrella-clara .estrella-icon {
             color: #fff;
+          }
+
+          /*Seccion 2 Portafolio*/
+          .portafolio{
+            width: 85%;
+          }
+          .roundeds {
+            border-radius: 15px!important;
           }
